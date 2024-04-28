@@ -1,0 +1,2 @@
+# world_time_sync_spigot
+ワールドの時間を同期します

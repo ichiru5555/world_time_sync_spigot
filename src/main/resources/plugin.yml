@@ -1,0 +1,4 @@
+name: world_time_sync
+version: '${project.version}'
+main: org.ichiru.world_time_sync.World_time_sync
+api-version: '1.20'
